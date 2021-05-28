@@ -1,0 +1,15 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: 25;
+}
+h4{
+   text-align: center;
+    color: chartreuse;
+    font-size: 18; 
+    background-color: black;
+    }
